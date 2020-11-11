@@ -1,24 +1,6 @@
 # windows-desktop
 
-## Project setup
-```
-yarn install
-```
+模拟win10
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 目录结构
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

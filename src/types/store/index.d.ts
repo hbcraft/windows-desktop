@@ -1,0 +1,3 @@
+interface RootState {
+  isLogin: boolean;
+}
